@@ -1,0 +1,2 @@
+{"question": "How many days of annual leave do full-time employees get?", "relevant": [{"file": "hr_policy.pdf", "contains": "annual leave"}]}
+{"question": "What is the approval limit for travel expenses?", "relevant": [{"file": "finance_handbook.docx", "contains": "travel"}, {"file": "expense_rates.xlsx", "contains": "travel"}]}
